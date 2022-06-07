@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Adil\.gradle\caches\transforms-3\ea2f6d56c7372192ad0f0fcf7f5fcd0e\transformed\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Adil\.gradle\caches\transforms-3\f7055fa378525fc1cbe24666518549b9\transformed\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\99fedfee3ed8cfd2eda3fabfe2ee8e59\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\14f97347275e7d2429b9cab23f03bf1c\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\3ddcd350068785690208ab34ee91c137\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\b62122c88e3810569fb2cbcc9604da50\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\26fd26021e429e1692a294c56e2c6ef5\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\38896d9881c50f2abe501e870a58a0f2\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\88a3b117bca0311a8f917cba4c5b5749\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\667cfacd9f42fd5a569382496434aa6b\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\f8d66333396d64324a29fd8d297d6d00\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\796c61be3fb7e03cc40055baf20696cb\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\37eaa70dc25d72634b48c13f9af486cb\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\03ba12de6c3ea2f901f465a0b3eb644a\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\412d1b15c02ded7944177e5da3afdd4c\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\343357b1aa08f30f20c4a293e73cee48\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\f7499049ef9c1fcc4ba34175079518cb\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\50c3f61b095a1ee5930fba3ae42e41fb\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\eeccb0f7ad42e5b7377620fb861be641\transformed\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\ecf26daf90fb5de10b64c680d398d1a1\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\f41a9078ca81c2b1990279db5dc34131\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\87de568e399f8ed870c74a83c3b9ab9f\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\203c5cd03f43f30f4de5351237296abb\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\3e370ced40e63c5c583e7e537e7ed5ad\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\5f6596b4602f07dec5b50c01791ef0aa\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\86d9d180078cc2e6c18684009a8db0e3\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\7bae859f5af804d02bbf3786589d7672\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\6d4367e9db814f8fb031ef08ceb0b55d\transformed\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:4:2-31
+		INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:3:2-60
+application
+ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:5:2-26:16
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Adil\.gradle\caches\transforms-3\ea2f6d56c7372192ad0f0fcf7f5fcd0e\transformed\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Adil\.gradle\caches\transforms-3\ea2f6d56c7372192ad0f0fcf7f5fcd0e\transformed\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Adil\.gradle\caches\transforms-3\f7055fa378525fc1cbe24666518549b9\transformed\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Adil\.gradle\caches\transforms-3\f7055fa378525fc1cbe24666518549b9\transformed\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\f7499049ef9c1fcc4ba34175079518cb\transformed\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\f7499049ef9c1fcc4ba34175079518cb\transformed\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\eeccb0f7ad42e5b7377620fb861be641\transformed\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\eeccb0f7ad42e5b7377620fb861be641\transformed\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\f7499049ef9c1fcc4ba34175079518cb\transformed\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:7:3-35
+	android:largeHeap
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:9:3-27
+	android:icon
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:8:3-36
+	android:allowBackup
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:6:3-29
+	android:theme
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:11:3-34
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:10:3-38
+activity#com.my.newproject27.MainActivity
+ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:12:3-22:14
+	android:screenOrientation
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:17:4-40
+	android:hardwareAccelerated
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:15:4-38
+	android:supportsPictureInPicture
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:16:4-43
+	android:configChanges
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:14:4-97
+	android:name
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:13:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:18:4-21:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:19:5-57
+	android:name
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:19:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:20:15-62
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:23:3-25:31
+	android:required
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:25:4-28
+	android:name
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml:24:4-41
+uses-sdk
+INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Adil\.gradle\caches\transforms-3\ea2f6d56c7372192ad0f0fcf7f5fcd0e\transformed\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Adil\.gradle\caches\transforms-3\ea2f6d56c7372192ad0f0fcf7f5fcd0e\transformed\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Adil\.gradle\caches\transforms-3\f7055fa378525fc1cbe24666518549b9\transformed\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Adil\.gradle\caches\transforms-3\f7055fa378525fc1cbe24666518549b9\transformed\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\99fedfee3ed8cfd2eda3fabfe2ee8e59\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\99fedfee3ed8cfd2eda3fabfe2ee8e59\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\14f97347275e7d2429b9cab23f03bf1c\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\14f97347275e7d2429b9cab23f03bf1c\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\3ddcd350068785690208ab34ee91c137\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\3ddcd350068785690208ab34ee91c137\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\b62122c88e3810569fb2cbcc9604da50\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\b62122c88e3810569fb2cbcc9604da50\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\26fd26021e429e1692a294c56e2c6ef5\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\26fd26021e429e1692a294c56e2c6ef5\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\38896d9881c50f2abe501e870a58a0f2\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\38896d9881c50f2abe501e870a58a0f2\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\88a3b117bca0311a8f917cba4c5b5749\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\88a3b117bca0311a8f917cba4c5b5749\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\667cfacd9f42fd5a569382496434aa6b\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\667cfacd9f42fd5a569382496434aa6b\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\f8d66333396d64324a29fd8d297d6d00\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\f8d66333396d64324a29fd8d297d6d00\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\796c61be3fb7e03cc40055baf20696cb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\796c61be3fb7e03cc40055baf20696cb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\37eaa70dc25d72634b48c13f9af486cb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\37eaa70dc25d72634b48c13f9af486cb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\03ba12de6c3ea2f901f465a0b3eb644a\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\03ba12de6c3ea2f901f465a0b3eb644a\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\412d1b15c02ded7944177e5da3afdd4c\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\412d1b15c02ded7944177e5da3afdd4c\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\343357b1aa08f30f20c4a293e73cee48\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\343357b1aa08f30f20c4a293e73cee48\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\f7499049ef9c1fcc4ba34175079518cb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\f7499049ef9c1fcc4ba34175079518cb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\50c3f61b095a1ee5930fba3ae42e41fb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\50c3f61b095a1ee5930fba3ae42e41fb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\eeccb0f7ad42e5b7377620fb861be641\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\eeccb0f7ad42e5b7377620fb861be641\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\ecf26daf90fb5de10b64c680d398d1a1\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\ecf26daf90fb5de10b64c680d398d1a1\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\f41a9078ca81c2b1990279db5dc34131\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\f41a9078ca81c2b1990279db5dc34131\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\87de568e399f8ed870c74a83c3b9ab9f\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\87de568e399f8ed870c74a83c3b9ab9f\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\203c5cd03f43f30f4de5351237296abb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\203c5cd03f43f30f4de5351237296abb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\3e370ced40e63c5c583e7e537e7ed5ad\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\3e370ced40e63c5c583e7e537e7ed5ad\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\5f6596b4602f07dec5b50c01791ef0aa\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Adil\.gradle\caches\transforms-3\5f6596b4602f07dec5b50c01791ef0aa\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\86d9d180078cc2e6c18684009a8db0e3\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\86d9d180078cc2e6c18684009a8db0e3\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\7bae859f5af804d02bbf3786589d7672\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\7bae859f5af804d02bbf3786589d7672\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\6d4367e9db814f8fb031ef08ceb0b55d\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Adil\.gradle\caches\transforms-3\6d4367e9db814f8fb031ef08ceb0b55d\transformed\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Adil\Downloads\Flashlight\app\src\main\AndroidManifest.xml
